@@ -998,7 +998,3 @@ select:focus {
 .eliminar-btn:hover .icono-papelera {
     filter: grayscale(0) drop-shadow(0 0 4px #c92020);
 }
-.cuekkk{
-  color: red;
-  font-weight: bold;
-}
